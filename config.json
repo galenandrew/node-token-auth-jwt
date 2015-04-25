@@ -1,0 +1,4 @@
+{
+	"tokenSecret": "let me tell you a secret",
+	"database": "mongodb://user:password@localhost:27017/database"
+}
